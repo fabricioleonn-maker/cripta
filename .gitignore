@@ -1,0 +1,18 @@
+node_modules/
+.agent/
+.vscode/
+*.txt
+*.log
+.DS_Store
+
+# Android
+android/build/
+android/.gradle/
+android/app/build/
+*.keystore
+!debug.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
